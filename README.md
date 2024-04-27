@@ -1,7 +1,7 @@
 <img src="https://github.com/jinxinyii/jinxinyii/blob/main/jinxinyii.png" alt="banner">
 <h1 align="center">Hi 👋, I'm Elmar T. Panganiban</h1>
 <h3 align="center">A passionate college student from Philippines who wants to learn Programming.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db7c6753-956b-4327-8db9-27975ad43253/db2bpd5-0b5cd9ea-53cc-409c-91bb-1651be393b6c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiN2M2NzUzLTk1NmItNDMyNy04ZGI5LTI3OTc1YWQ0MzI1M1wvZGIyYnBkNS0wYjVjZDllYS01M2NjLTQwOWMtOTFiYi0xNjUxYmUzOTNiNmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4QBd2gjsm3Vh9tn6NbGuZwz5icDzNLe5QSC2uFlzpdI)">
+<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db7c6753-956b-4327-8db9-27975ad43253/db2bpd5-0b5cd9ea-53cc-409c-91bb-1651be393b6c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiN2M2NzUzLTk1NmItNDMyNy04ZGI5LTI3OTc1YWQ0MzI1M1wvZGIyYnBkNS0wYjVjZDllYS01M2NjLTQwOWMtOTFiYi0xNjUxYmUzOTNiNmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4QBd2gjsm3Vh9tn6NbGuZwz5icDzNLe5QSC2uFlzpdI)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinxinyii&label=Profile%20views&color=0e75b6&style=flat" alt="jinxinyii" /> </p>
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maryoooovg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maryoooovg" height="30" width="40" /></a>
-<a href="https://fb.com/elmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elmar" height="30" width="40" /></a>
+<a href="https://fb.com/maryooovg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elmar" height="30" width="40" /></a>
 <a href="https://instagram.com/xinyii14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xinyii14" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/maryovg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maryovg" height="30" width="40" /></a>
 <a href="https://discord.gg/317275588379410433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="317275588379410433" height="30" width="40" /></a>
