@@ -1,7 +1,7 @@
 <img src="https://github.com/jinxinyii/jinxinyii/blob/main/jinxinyii.png" alt="banner">
 <h1 align="center">Hi 👋, I'm Elmar T. Panganiban</h1>
 <h3 align="center">A passionate college student from Philippines who wants to learn Programming.</h3>
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db7c6753-956b-4327-8db9-27975ad43253/db2bpd5-0b5cd9ea-53cc-409c-91bb-1651be393b6c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiN2M2NzUzLTk1NmItNDMyNy04ZGI5LTI3OTc1YWQ0MzI1M1wvZGIyYnBkNS0wYjVjZDllYS01M2NjLTQwOWMtOTFiYi0xNjUxYmUzOTNiNmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4QBd2gjsm3Vh9tn6NbGuZwz5icDzNLe5QSC2uFlzpdI)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinxinyii&label=Profile%20views&color=0e75b6&style=flat" alt="jinxinyii" /> </p>
 
