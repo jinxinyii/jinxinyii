@@ -1,5 +1,5 @@
 <img src="https://github.com/jinxinyii/jinxinyii/blob/main/jinxinyii.png" alt="banner">
-<h1 align="center">Hi 👋, I'm Elmar T. Panganiban</h1>
+<h1 align="center">Hi 👋, I'm Elmar</h1>
 <h3 align="center">A passionate college student from Philippines who wants to learn Programming.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif">
 
