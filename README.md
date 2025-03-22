@@ -101,7 +101,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vbnet/vbnet-original.svg" height="30" alt="vbnet logo"  />
+  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/vbnet/vbnet-original.svg" height="30" alt="vbnet logo"  />
 </div>
 
 ###
